@@ -20,7 +20,7 @@ This React Native application is designed to manage supervisors and handle notif
 
 ### 1. Clone the repository
 
-git clone https://github.com/your-username/lightfeather-supervisor-module.git
+git clone git@github.com:ravivatish/LightFeather.git
 cd lightfeather-supervisor-module
 
 
